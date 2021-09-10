@@ -1,0 +1,26 @@
+.Navigation{
+    margin-bottom: 20px;
+}
+.Brand{
+    color: white;
+    font-size: 15px;
+    margin-top: -20px;
+}
+
+.sjb{
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: -25px;
+    color: white;
+    margin-left: 10px;
+}
+
+.sjb:hover{
+    color: wheat;
+    text-decoration: none;
+}
+
+/* .active{
+    text-shadow: 1px 1px grey;
+    color: wheat;
+} */
